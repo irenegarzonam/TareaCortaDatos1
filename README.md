@@ -1,4 +1,4 @@
-#Tarea Corta
+#TareaCortaDatos1
 Instituto Tecnológico de Costa Rica   
 Área de Ingeniería en Computadores   
 Algoritmos y Estructuras de Datos I (CE 1103)   
