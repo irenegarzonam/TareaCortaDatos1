@@ -1,8 +1,9 @@
-#TareaCortaDatos1
 Instituto Tecnológico de Costa Rica   
 Área de Ingeniería en Computadores   
 Algoritmos y Estructuras de Datos I (CE 1103)   
 Primer Semestre 2021
+
+#Tarea Corta
 
 **OBJETIVO GENERAL**    
 ➔Aplicar conceptos relacionados con programación orientadaa objetos y listas en Java.
