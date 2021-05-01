@@ -25,6 +25,7 @@ La cantidad de color es en una secuencia dependerá del nivel en el que esté. E
 Los distintos niveles de dificultad van aumentando la velocidad de la secuencia a repetir. Para la interfaz gráfica sencilla,puede usar JavaFX o Swing. Debe aparecer el disco y el nivel por el que va el jugador (ver Figura 2 como ejemplo).
 ![img.png](img.png)
 
+
 Historias de Usuario
 --
 
@@ -39,3 +40,17 @@ Historias de Usuario
 --> **Registrar secuencia que marca el jugador**: registrar los botones que el jugador oprime.
 --> **Comparar ambas secuencias**: verificar que la secuencia que el jugador marco es igual a la secuencia correcta del juego, en caso que si sea igual aumentará de nivel y en caso que no sea igual le notificará al jugador que ha perdido.   
 --> **Mostrar al jugador en una pantalla "Has perdido"**: en caso de que desacierta en la secuencia de colores se le mostrará esta pantalla con el puntaje obtenido.   
+   
+Clasificación según criticidad y secuencia de uso/Minimal System Span
+--
+![img_4.png](img_4.png)
+Plan de iteraciones
+--
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+
+Diagrama conceptual
+--
+
+Diagrama de clases
+--
