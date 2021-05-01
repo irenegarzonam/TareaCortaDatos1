@@ -43,7 +43,8 @@ Historias de Usuario
    
 Clasificación según criticidad y secuencia de uso/Minimal System Span
 --
-![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+
 Plan de iteraciones
 --
 ![img_2.png](img_2.png)
@@ -51,6 +52,8 @@ Plan de iteraciones
 
 Diagrama conceptual
 --
+![img_7.png](img_7.png)
 
 Diagrama de clases
 --
+![img_6.png](img_6.png)
